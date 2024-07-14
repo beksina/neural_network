@@ -1,1 +1,1 @@
-Simple implementation of a neural network.
+Basic implementation of a neural network.
